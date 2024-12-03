@@ -2,7 +2,7 @@
 
 DATA_DIR=/opt/bitnami/spark/data
 
-API_KEY="AIzaSyAIEtNt37vEUcMJJC4Ry9fY1Zqh-GHzWJw"
+API_KEY=""
 CHANNEL_ID="UCMki_UkHb4qSc0qyEcOHHJw"
 TARGET_DATE=$1  # Airflow에서 전달받는 날짜 (yyyy-mm-dd 형식)
 DATA_DIR="/opt/bitnami/spark/data"
