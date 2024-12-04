@@ -54,5 +54,6 @@ NewJeans 유튜브 채널의 데이터 수집 및 분석을 자동화하여 효�
 ![image](https://github.com/user-attachments/assets/19c1844b-e9db-4efc-8705-d295c7de4aae)
 
 ### 대시보드 시각화
-![image](https://github.com/user-attachments/assets/6ddd41fb-e5b5-4716-9129-342931cce896)
+![image](https://github.com/user-attachments/assets/4f3c09ef-b16b-4e44-8f6d-37eae6523df0)
+
 
